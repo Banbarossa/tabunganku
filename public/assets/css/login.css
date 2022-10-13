@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.wadah {
+    height: 100vh;
+    width: 100vw;
+    background-color: #f1f5f9;
+}
+.card {
+    width: 450px;
+    position: absolute;
+    right: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    /* height: 60px; */
+    left: 0px;
+    right: 0px;
+}
